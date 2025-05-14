@@ -21,3 +21,5 @@ with an F1-score of up to 0.94. In addition, in cross-dataset
 evaluations, our approach outperforms traditional centralized
 baselines, showing significantly lower performance degradation
 while preserving patient privacy.
+
+![image](https://github.com/user-attachments/assets/831f7e44-77c6-405e-b154-46b5f4036c33)
